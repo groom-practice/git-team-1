@@ -1,4 +1,11 @@
 # git-team-1
+
+
+### 최동윤
+
+https://github.com/DD9260
+살려주세요
+
 ### 맹인영
 
 ### [GitHub 바로가기](https://github.com/inyoung-dev) <br>
@@ -37,4 +44,5 @@ Repository를 clone 후 진행합니다.
   - type: subject
 - type 종류
   - docs: 문서 수정
+
 
